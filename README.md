@@ -1,4 +1,4 @@
-# Course Catalog — React + Vite (`hw38-react` / `js-hw39-react`)
+# Course Catalog — React + Vite (`js-hw39-react`)
 
 A modular React single-page application built with Vite that displays a catalog of courses, complete with reusable card layouts and dynamic availability badges.
 
